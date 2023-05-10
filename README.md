@@ -11,6 +11,8 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/kumaranil3921/node-redis-cache-hogwarts-api-tutorial.git
+```
+```
 cd node-redis-cache-hogwarts-api-tutorial
 ```
 
